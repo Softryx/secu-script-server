@@ -15,6 +15,8 @@ echo "#### Starting Upgrade ####" >> $output
 apt upgrade >> $output
 echo "#### END UPGRADE ####" >> $output
 
+
+
 echo "#### end of script " >> $output
 echo "################################" >> $output
 echo "#### Do not forget to verify if you can connect via SSH" >> $output
